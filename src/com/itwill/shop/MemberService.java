@@ -11,4 +11,7 @@ public class MemberService {
 	public void selelctByPK() {
 		
 	}
+	public void update() {
+		
+	}
 }
