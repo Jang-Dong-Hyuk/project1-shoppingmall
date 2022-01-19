@@ -11,4 +11,7 @@ public class ProductService {
 	public void selelctByPK() {
 		
 	}
+	public void insert(){
+	
+	}
 }
